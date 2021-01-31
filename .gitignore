@@ -1,0 +1,6 @@
+*.pyc
+db.sqlite3
+.vscode
+__pycahe__
+myvent
+
